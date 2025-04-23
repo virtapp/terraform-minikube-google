@@ -1,11 +1,5 @@
-<div align="center" id="top"> 
-  <img src="![minikube-banner](https://github.com/user-attachments/assets/06927acc-b53f-4787-b6dc-a2bf0b27901d)
-" />
+![minikube-banner](https://github.com/user-attachments/assets/9ce20aaf-0c56-41a4-9074-affcee457d72)
 
-&#xa0;
-
-  <!-- <a href="https://minikubecomputeengine1.netlify.app">Demo</a> -->
-</div>
 
 <h1 align="center">Install Minikube on Google Compute Engine</h1>
 <p align="center">
