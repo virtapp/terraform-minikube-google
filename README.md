@@ -98,12 +98,3 @@ To access the Minikube Dashboard, you can follow these steps:
 
 By following these steps, you will be able to access the Minikube Dashboard using the provided URL. Additionally, if you choose to restrict access, only the IP address specified in the source_ranges list will be able to access the dashboard.
 
-## :memo: License
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
-
-Made with :heart: by <a href="https://github.com/devenes" target="_blank">devenes</a>
-
-&#xa0;
-
-<a href="#top">⬆️ Back to top</a>
